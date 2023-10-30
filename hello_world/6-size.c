@@ -4,7 +4,7 @@
 * main - Prints the size of various types based on
 * the computer it is compiled and run on..
 * descripcion: imprimir el tamano de varios tipos de datos
-* parametro: cahr int long int float  
+* parametro: char int long intfloat
 * Return: Always 0. 
 */
 
