@@ -4,8 +4,8 @@
 * main - Prints the size of various types based on
 * the computer it is compiled and run on..
 * descripcion: imprimir el tamano de varios tipos de datos
-* parametro: datos enteros caracteres largos y flotantes 
-* Return: Always 0 
+* parametro: datos enteros caracteres largos y flotantes. 
+* Return: Always 0. 
 */
 
 int main(void)
