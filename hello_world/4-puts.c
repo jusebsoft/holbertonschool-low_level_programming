@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/* comando puts    */
+/**
+ * comando puts
+ */
 
 int main(void)
 {
