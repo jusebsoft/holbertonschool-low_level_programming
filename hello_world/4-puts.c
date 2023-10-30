@@ -2,6 +2,8 @@
 
 /**
  * comando puts
+ * la funcion main sirve para declarar la funcion principal
+ * y el return para que nos devuelva la salida
  */
 
 int main(void)
