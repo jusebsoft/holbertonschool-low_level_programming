@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 /**
- * comando puts
- * la funcion main sirve para declarar la funcion principal
- * y el return para que nos devuelva la salida
+ * main - punto de entrada
+ * description: ' usando la funcion puts'
+ * parametro: se usa la funcion main
+ *
+ *Return: Always 0 (Success)
  */
 
 int main(void)
