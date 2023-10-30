@@ -3,10 +3,12 @@
 /**
  * main - Prints the size of various types based on
  * the computer it is compiled and run on..
- *
+ * descripcion: imprimir el tamano de varios tipos de datos
+ * parametro: se usa la funcion printf, y tipos de datos enteros,caracteres,largos y flotantes 
  * Return: Always 0.
  */
- int main(void)
+
+int main(void)
 {
 printf("Size of a char: %zu byte(s)\n", sizeof(char));
 printf("Size of an int: %zu byte(s)\n", sizeof(int));
