@@ -5,7 +5,7 @@
 * the computer it is compiled and run on..
 * descripcion: imprimir el tamano de varios tipos de datos
 * parametro: char int long intfloat
-* Return: Always 0. 
+* Return: Always 0 (Success). 
 */
 
 int main(void)
