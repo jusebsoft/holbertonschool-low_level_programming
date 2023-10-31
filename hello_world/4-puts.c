@@ -2,7 +2,7 @@
 
 /**
  * main - punto de entrada
- * description: ' usando la funcion puts'
+ * description:  usando la funcion puts
  * parametro: se usa la funcion main
  *
  *Return: Always 0 (Success)
