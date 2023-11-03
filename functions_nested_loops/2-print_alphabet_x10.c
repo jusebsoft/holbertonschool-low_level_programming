@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* print_alphabet_x10.c - impirmir el alfabeto 10 veces
+* print_alphabet_x10 - impirmir el alfabeto 10 veces
 * Return: 0.
 */
 
@@ -14,8 +14,8 @@ void print_alphabet_x10(void)
 	{
 		for (j = 'a' ; j <= 'z' ; j++)
 			_putchar (j);
+		_putchar ('\n');
 	}
-	_putchar('\n');
 }
 
 
