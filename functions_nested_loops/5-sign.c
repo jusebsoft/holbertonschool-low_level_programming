@@ -1,9 +1,10 @@
 #include "main.h"
 
 /**
-*print_sing - imprimir el signo de un numero
-*@n: function parameter
-*Return: 1, 0 or -1.
+* print_sign - Imprimir el signo de un numero.
+* @n: Print the sign of a number.
+* Description: funcion usada para imprimir el signo de un numero
+* Return: 1, 0 or -1.
 */
 
 int print_sign(int n)
