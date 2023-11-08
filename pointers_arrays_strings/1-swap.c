@@ -3,16 +3,16 @@
 /**
 * swap_int - swaps the values of two int
 * Description: funcion para tomar el valor de dos enteros
-* @a: parametro 1
-* @b: parametro 2
+* @a: entero a cambiar
+* @b: entero a cambiar
 */
 
 void swap_int(int *a, int *b)
 {
-	int = m;
+	int = 'm';
 
-	m = *a;
+	'm' = *a;
 	*a = *b;
-	*b = m;
+	*b = 'm';
 
 }
