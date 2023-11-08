@@ -4,17 +4,17 @@
 * print_last_digit - print last digit
 * @i: function parameter
 * Description: imprimir el ultimo digito entero
-* Return: j
+* Return: k.
 */
 
 int print_last_digit(int i)
 {
-	int j;
+	int k;
 
-	j = i % 10;
+	k = i % 10;
 	if (i < 0)
-		j = -j;
-	_putchar(j - '0');
-	return (j);
+		k = -k;
+	_putchar(k - '0');
+	return (k);
 
 }
