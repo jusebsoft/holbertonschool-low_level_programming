@@ -1,18 +1,17 @@
 #include "main.h"
 
 /**
-* swap_int - swaps the values of two int
-* Description: funcion para tomar el valor de dos enteros
+* swap_int - swaps the values of two integers
 * @a: entero a cambiar
 * @b: entero a cambiar
 */
 
 void swap_int(int *a, int *b)
 {
-	int = m, a, b;
+	int = a, b;
 
 	m = *a;
 	*a = *b;
-	m = *b;
+	*b = m;
 
 }
