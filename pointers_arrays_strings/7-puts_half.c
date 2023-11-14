@@ -15,6 +15,6 @@ void puts_half(char *str)
 		half++;
 		str++;
 	}
-	('\n');
+	printf('\n');
 	return (half);
 }
